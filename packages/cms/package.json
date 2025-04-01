@@ -12,13 +12,13 @@
   "dependencies": {
     "@t3-oss/env-nextjs": "^0.11.1",
     "basehub": "^7.5.32",
-    "react": "^19.0.0",
+    "react": "^19.1.0",
     "zod": "^3.24.1"
   },
   "devDependencies": {
     "@repo/typescript-config": "workspace:*",
     "@types/node": "22.10.5",
-    "@types/react": "19.0.2",
+    "@types/react": "19.0.12",
     "@types/react-dom": "^19.0.2",
     "next": "15.1.4"
   }
